@@ -1,0 +1,32 @@
+File Created by HARNEET SINGH, 400110275, singhh76@mcmaster.ca
+
+GROCERY STORE - INVENTORY
+
+Produce Department Inventory:
+Index -		                     Name		    Qty	  Cost
+
+    1 -		              Gala Apples		     56	   2.30
+    2 -		                  Carrots		     67	   1.44
+    3 -		                    Beets		    500	   3.33
+    4 -		                  Sausage		     33	   8.70
+
+Deli Department Inventory:
+Index -		                     Name		    Qty	  Cost
+
+    1 -		            Sliced Turkey		     78	   1.38
+    2 -		                      Ham		      1	  70.00
+    3 -		            Sliced Salami		      2	   2.75
+
+Bakery Department Inventory:
+Index -		                     Name		    Qty	  Cost
+
+    1 -		                     Cake		     10	  20.33
+    2 -		                    Break		     21	   3.21
+    3 -		        Shortbread Cookie		     12	   3.40
+
+Frozen-Foods Department Inventory:
+Index -		                     Name		    Qty	  Cost
+
+    1 -		             McCain Fries		     20	   2.40
+    2 -		                Ice Cream		     44	   3.78
+    3 -		             Mac & Cheese		     65	   2.55

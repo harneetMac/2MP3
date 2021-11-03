@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main()
+{
+	int x;
+
+	printf("Please enter a value to calculate factorial\n");
+	scanf("%d", &x);
+
+	if (x==0){
+		printf("Enter a non-zero number");}
+
+	else{
+		while (x>0){
+			x = x*(x-1);
+			x = x-1}
+	}
+
+	printf("%d", x)
+
+}
